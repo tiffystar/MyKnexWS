@@ -1,3 +1,4 @@
+//migrations/create_pet_table.js
 /**
  * @param { import("knex").Knex } knex
  * @returns { Promise<void> }
